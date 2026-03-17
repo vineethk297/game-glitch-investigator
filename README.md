@@ -33,7 +33,7 @@ It wrote the code, ran away, and now the game is unplayable.
    I fixed the guessing logic so the hints finally matched whether my guess was too high or too low. I also corrected the difficulty ranges, the attempt counter, and the reset behavior so the game would work properly when I started a new game or changed the difficulty. After that, I updated the submit flow using a Streamlit form because the second guess was sometimes not being picked up correctly. I also added a check for out-of-range guesses so the app shows a clear error instead of treating those inputs like normal guesses.
 ## 📸 Demo
 
-- [ ] ![Winning game screenshot](assets/Win_Image.png)
+- ![Winning game screenshot](assets/Win_Image.png)
 
 ## 🚀 Stretch Features
 
